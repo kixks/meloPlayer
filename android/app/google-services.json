@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765478026522",
+    "project_id": "meloplayer-6a79e",
+    "storage_bucket": "meloplayer-6a79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765478026522:android:09369a58faa623709440a3",
+        "android_client_info": {
+          "package_name": "com.example.melo_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzsOCL2a4TVyzR6RFP61OuWAiJOMOixg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
